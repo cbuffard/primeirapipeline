@@ -1,3 +1,4 @@
+ETL com API e CRM de vendas: Python, SQL, Git
 import streamlit as st
 from datetime import datetime, time
 from pydantic import ValidationError  # para error de insercao nos campos (contrato)
